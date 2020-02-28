@@ -1,0 +1,6 @@
+For linux(Ubuntu) first enable the virtual environment (venv) while in the project's folder then run the application. Use the following commands independently:
+
+                source venv/bin/activate
+                python main.py
+
+

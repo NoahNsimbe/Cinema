@@ -1,0 +1,8 @@
+Title, Genre, Rating, Release_date, Running_time, Showing Date and Time
+Breaking Good, Thriller, 8.9, 12/2/11, 120m, 11/10/19 1:00 PM 
+The Shining, Horror, 7.0, 1/12/14, 180m, 12/10/19 7:00 PM
+Aliens Vs. Man, Comedy, 8.0, 12/2/11, 127m, 13/10/19 1:00 PM
+Avengers: Endgame, Adventure, 9.0, 11/11/18, 111m, 14/10/19 7:00 PM
+Spider-Man: Homecoming, Thriller, 9.7, 17/6/19, 141m, 15/10/19 1:00 PM
+Rampage, Action, 8.8, 11/7/17, 118m, 17/10/19 7:00 PM
+Killshot, Romance, 8.9, 17/11/18, 119m, 19/10/19 1:00 PM
